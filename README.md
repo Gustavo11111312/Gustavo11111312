@@ -1,9 +1,1 @@
-👋 Olá! Meu nome é Gustavo.
-Sou um desenvolvedor focado em Luau (Roblox), criando executores, ferramentas externas e projetos de automação.
-
-Sou o criador e dono de projetos como:
-1155doET Exec, StaticX.
-
-Gosto de explorar como as coisas funcionam por baixo dos panos, criar interfaces modernas e transformar ideias em ferramentas reais.
-
-🚀 Sempre aprendendo, sempre evoluindo.
+# Nesse ano de 2026 começei o projeto NevaX mas depois de muitas atualizações mudei o projeto completamente para StaticX foi ai que começou a dar certo o projeto comecei a melhorar e melhorar que até hoje continuarei melhorando esse projeto ❤
